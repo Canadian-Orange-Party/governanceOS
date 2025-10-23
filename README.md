@@ -7,3 +7,14 @@ A mission to educate 1 million Canadians about money (2.42% of todays 41.29m pop
 This is our Open Source Governance Software
 
 Repo initiated 920,407 by Spear [CO_919953]
+
+NOSTR:
+
+npub1hkprtpymah577g9vxcn6nyuj9jfckh3v3kmgvdaff5sesl0ase2sqn6jqu
+
+Donate sats to support our work
+
+Lightning address: wildkangaroo21@primal.net
+
+DM for on chain donations to receive a main chain address
+
