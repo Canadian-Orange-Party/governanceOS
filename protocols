@@ -1,14 +1,21 @@
 Onboarding protocol v1.2
 
-ORANGE ID
-- A privacy protocol
 
-CALL SIGN
+Principles:
+- We pseudonymous identifiers to remain private so we can work publicly without fear of censorship
+- We decentralize contribution as much as possible. Anyone can record and submit a podcast
+
+
+PROTOCOLS. How we do things
+
+ORANGE ID & CALL SIGN
+- A private ID system that we use to protect ourselves and find each other
 
 ACTIVATION
-- signal that you are online and seeking to contribute
+- A protocol for signalling that you are online and seeking to contribute
 
--------> Proposal protocol
+PROPOSAL
+- A protocol for submitting a protocol
 
 - Post a note on nostr, tag @CanadianOrangeParty
 - Send your proposal to Mike
@@ -16,15 +23,13 @@ ACTIVATION
 
 - Proposals are voted. Those approved become projects. Funded projects are actioned. Project leader submits a debrief
 
-
-
--------> Meeting protocol
+MEETING
+- A protocol for how we meet in cyberspace for discussions
 
 - 21st of every month
 - 1200 - 13:30 ET
 - Meeting ends 
 - Raise your hand to speak if you have a perspective to share
-
 
 
 
