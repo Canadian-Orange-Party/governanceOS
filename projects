@@ -4,18 +4,41 @@ Project ID: PID_block height of project initiation_project name
 
 
 
----> PID_918981_Website
+---> PID_918789_Website
 
 Lead: SPEAR [CO_919953]
+
+Start date: 10.12.25
+
+Estimated duration: ongoing
+
+Funding:
+- Lead: lead the design, select and manage team, allocate funding
+- developper:
+- 
+
+Current stage: landing page 
+
+Next step: Add donor & Hub page with links to repo categories
+Funding required: 69,000 sats
+
+Actions:
+mod_add "Since 916,094"
+mod_add "enter" button to bring to donor page
+mod_create donor page
+mod_add images to donor page with links, add "continue" button and "support with sats" button
+mod_create hub page
+mod_add "Repository" button to hub page (links to this repo)
+mod_add "Meetings" button to hub page (links to meetings file in repo)
+mod_add "Protocols" button to hub page (links to meetings file in repo)
+mod_add "Directory" button to hub page (links to z_operator directory file in repo)
+mod_add "Projects" button to hub page (links to projects file in repo)
+
 
 
 ---> PID_920407_Repo
 
 Lead: SPEAR [CO_919953]
-
-Open roles:
-- Maintainer
-- Developper (we are a decentralized web of developers. Submit a proposal, discuss proposals at meetings)
 
 Start date: 10.23.25
 
@@ -27,6 +50,8 @@ Funding:
 Role descriptions:
 - [closed] Lead: lead the operation, select and manage team, allocate funding
 - [open] Maintainer: update, improve, fix, and manage existing code
+- [open] Developper: We all submit proposals and discuss them at meetings
+
 
 
 ---> PID_920414_Podcast
@@ -46,6 +71,7 @@ Funding:
 - Producer: 12,000 sats per episode
 
 
+MIKE
 
 
 --
