@@ -1,6 +1,6 @@
 Fix the money. Fix Canada
 
-Governance software built by Bitcoiners
+Governance software built by Canadian Bitcoiners
 
 Free Open Source Governance Software
 
