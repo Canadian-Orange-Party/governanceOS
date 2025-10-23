@@ -12,18 +12,19 @@ Start date: 10.12.25
 
 Estimated duration: ongoing
 
-Funding:
+Role descriptions
 - Lead: lead the design, select and manage team, allocate funding
-- developper:
-- 
+- developper: update code
 
-Current stage: landing page 
+Funding history:
+- v1.0 Landing page: 3,390 sats
+- v2.0 Website: 21,000 sats
+- v2.1 Update: TBD
 
-Next step: Add donor & Hub page with links to repo categories
-Funding required: 69,000 sats
+Current action: v2.0 website (add donor & hub page with links to repo categories)
 
 Actions:
-mod_add "Since 916,094"
+mod_add "Since 916,094" on landing page
 mod_add "enter" button to bring to donor page
 mod_create donor page
 mod_add images to donor page with links, add "continue" button and "support with sats" button
