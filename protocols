@@ -1,16 +1,20 @@
-------> Onboarding protocol v1.1
+Onboarding protocol v1.2
 
 ORANGE ID
+- A privacy protocol
 
 CALL SIGN
 
 ACTIVATION
+- signal that you are online and seeking to contribute
 
 -------> Proposal protocol
 
 - Post a note on nostr, tag @CanadianOrangeParty
 - Send your proposal to Mike
 - Mike adds proposal to repo, to be discused at the next meeting
+
+- Proposals are voted. Those approved become projects. Funded projects are actioned. Project leader submits a debrief
 
 
 
@@ -20,3 +24,7 @@ ACTIVATION
 - 1200 - 13:30 ET
 - Meeting ends 
 - Raise your hand to speak if you have a perspective to share
+
+
+
+
