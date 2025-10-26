@@ -7,17 +7,38 @@ Principles:
 
 
 
-[ORANGE ID & CALL SIGN]
+[ORANGE ID & CALL SIGN] -> A private ID system that we use to protect ourselves and find each other
 
-A private ID system that we use to protect ourselves and find each other
+Orange ID format: “CO_Orange block”
+
+CO = Canadian Orange
+Orange block = block height you turned orange and created your Orange ID
 
 
-[ACTIVATION]
-- A protocol for signalling that you are online and seeking to contribute
+CALL SIGN: a short form ID linked to your Orange ID that can be used in meetings and on nostr 
+
+Format: Pick a word from the BIP39 word list 
 
 
-[PROPOSAL]
-- A protocol for submitting a protocol
+[ACTIVATION] -> A protocol for signalling that you are online and seeking to contribute
+
+Complete the following two actions:
+
+1) Post anote thats says “[your call sign]_online” and tag @CanadianOrangeParty
+
+2) Send the primary npub a DM with information about what skills/abilities you have and how you want to help
+
+-
+
+Your note will be zapped 121 sats to confirm activation
+
+Your note will be reposted on this account to signal other members that you are online
+
+Your Orange ID and associated call sign will be added to our GitHub database of operators
+
+
+
+[PROPOSAL] -> A protocol for submitting a proposal
 
 - Post a note on nostr, tag @CanadianOrangeParty
 - Send your proposal to Mike
