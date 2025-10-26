@@ -1,40 +1,38 @@
-Onboarding protocol v1.2
+Protocols codify how we do things as a distributed network of individuals coordinating to achieve change
 
 
 Principles:
-- We pseudonymous identifiers to remain private so we can work publicly without fear of censorship
-- We decentralize contribution as much as possible. Anyone can record and submit a podcast
+- We use pseudonymous identifiers to remain private so we can work publicly without fear of persecution
+- We decentralize contribution as much as possible. Anyone can submit a proposal, record a podcast or apply for open roles
 
 
-PROTOCOLS. How we do things
 
-ORANGE ID & CALL SIGN
-- A private ID system that we use to protect ourselves and find each other
+[ORANGE ID & CALL SIGN]
 
-ACTIVATION
+A private ID system that we use to protect ourselves and find each other
+
+
+[ACTIVATION]
 - A protocol for signalling that you are online and seeking to contribute
 
 
-
-PROPOSAL
+[PROPOSAL]
 - A protocol for submitting a protocol
 
 - Post a note on nostr, tag @CanadianOrangeParty
 - Send your proposal to Mike
 - Mike adds proposal to repo, to be discused at the next meeting
-
-- Proposals are voted. Those approved become projects. Funded projects are actioned. Project leader submits a debrief
-
+- Proposals are voted. Those approved become projects. Funded projects are actioned. Project leader submits a debrief once project is complete
 
 
-UPDATES
 
+[UPDATES]
 - Project leaders send updates to central by posting "UPDATE", tagging central
 - DM note to Mike
 
 
 
-MEETING
+[MEETING]
 - A protocol for how we meet in cyberspace for discussions
 
 - 21st of every month
