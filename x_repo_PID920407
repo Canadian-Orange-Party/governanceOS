@@ -1,17 +1,14 @@
-Lead: SPEAR
+Lead maintainer: SPEAR
 
 Team: 
 
+- Maintainer 2: TBD
+- Maintainer 3: TBD
 
 
-
-Current state:
-
-
-
-
-
-
+Current state: Framework construction
 
 Actions:
-- update profile image
+- Add updates from nostr
+- Add meeting transcripts
+- Update operator directory
