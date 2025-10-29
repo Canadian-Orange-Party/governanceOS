@@ -1,7 +1,8 @@
+Project: REPO
+
 Lead maintainer: SPEAR
 
 Team: 
-
 - Maintainer 2: TBD
 - Maintainer 3: TBD
 
@@ -12,3 +13,4 @@ Actions:
 - Add updates from nostr
 - Add meeting transcripts
 - Update operator directory
+- Create files for each project
