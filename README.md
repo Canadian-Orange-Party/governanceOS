@@ -14,5 +14,5 @@ Donate sats to support our work
 
 Lightning address: wildkangaroo21@primal.net
 
-DM for on chain donations to receive a main chain address
+On chain address: bc1qqwpakxryqet85ymppmthzsncmj283vclhr8uaj
 
