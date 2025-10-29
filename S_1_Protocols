@@ -5,9 +5,11 @@ Principles:
 - We use pseudonymous identifiers to remain private so we can work publicly without fear of persecution
 - We decentralize contribution as much as possible. Anyone can submit a proposal, record a podcast or apply for open roles
 
+"Central" refers to: npub1hkprtpymah577g9vxcn6nyuj9jfckh3v3kmgvdaff5sesl0ase2sqn6jqu (primary nostr account)
 
 
-[ORANGE ID & CALL SIGN] -> A private ID system that we use to protect ourselves and find each other
+
+-------> [ORANGE ID & CALL SIGN] -> A private ID system that we use to protect ourselves and find each other on nostr
 
 Orange ID format: “CO_Orange block”
 
@@ -20,46 +22,45 @@ CALL SIGN: a short form ID linked to your Orange ID that can be used in meetings
 Format: Pick a word from the BIP39 word list 
 
 
-[ACTIVATION] -> A protocol for signalling that you are online and seeking to contribute
+
+-------> [ACTIVATION] -> A protocol for signalling that you are online and seeking to contribute
 
 Complete the following two actions:
 
-1) Post anote thats says “[your call sign]_online” and tag @CanadianOrangeParty
+1) Post a note on nostr that says “[your call sign]_online” and tag Central
 
-2) Send the primary npub a DM with information about what skills/abilities you have and how you want to help
+2) Send Central a DM with information about what skills/abilities you have and how you want to help
 
 -
 
-Your note will be zapped 121 sats to confirm activation
+Your note will be zapped 121 sats by Central to confirm activation
 
-Your note will be reposted on this account to signal other members that you are online
+Your note will be reposted on Central account to signal other members that you are online
 
 Your Orange ID and associated call sign will be added to our GitHub database of operators
 
 
 
-[PROPOSAL] -> A protocol for submitting a proposal
+-------> [PROPOSAL] -> A protocol for submitting a proposal
 
-- Post a note on nostr, tag @CanadianOrangeParty
-- Send your proposal to Mike
-- Mike adds proposal to repo, to be discused at the next meeting
-- Proposals are voted. Those approved become projects. Funded projects are actioned. Project leader submits a debrief once project is complete
-
-
-
-[UPDATES]
-- Project leaders send updates to central by posting "UPDATE", tagging central
-- DM note to Mike
+- Post a note on nostr, tag Central
+- Proposal will be added to the repo and discussed at the next meeting
+- Proposals that are energized by individuals or sats become projects
 
 
 
-[MEETING]
+-------> [UPDATES]
+
+- Project leaders submit weekly updates by posting "UPDATE", tagging central and including any relevant information about their project
+
+
+
+-------> [MEETING]
+
 - A protocol for how we meet in cyberspace for discussions
-
-- 21st of every month
+- Template: review proposals, discuss questions, review projects and open roles
+- Moderator takes notes and adds to repo in real time
+- 21st of every month (exception: first meeting will be held on 10.31)
 - 1200 - 13:30 ET
-- Meeting ends 
 - Raise your hand to speak if you have a perspective to share
-
-
 
