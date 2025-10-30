@@ -14,6 +14,7 @@ WHY?
 HOW?
 - Grab peoples attention
 - Stimulate righteous anger by telling the truth about time theft
+- Elicit an emotional response about being stolen from
 - Shine a light on the darkness of currency manipulation
 
 WHAT?
@@ -21,7 +22,7 @@ WHAT?
 - Simplify inflation. No jargon, simple prose, relatable and can be read & understood by a 10 year old
 - Can be printed or ordered in packs (varying amounts -> friend/family packs, business packs, community packs)
 - Transmute anger into action
-- Desired action: download the inflation handbook to learn more
+- Desired action: download the money handbook to learn more
 
 
 
@@ -83,12 +84,24 @@ Action: Create logo and branding, register organization, select directors for th
 Lead: TBD
 Priority: 2
 
-- Inflation handbook
-- 5pg PDF
-- The truth about inflation
-- Elicit righteous anger about being stolen from
+- Money handbook
+- 5-7pg printed hanbook for P2P distribution, e-book hosted online
+- History of money
+- History of the Canadian dollar
+- People working 40,000 hours to earn money but dont typically spend 100 hours understanding money so they can preserve their purchasing power
+- Money from first principles
+- Functions of money, properties of money (compare bitcoin, fiat, gold)
+- Why everything should be getting cheaper with technology but is getting more expensive because of fiat (revisit inflation)
+- Saving vs. investing
+- Principles for building wealth (earn more than you spend, study money, save in bitcoin, invest if apropriate [optional])
+- Why Bitcoin is the best form of money
+- How to save in Bitcoin, how to self custody your sats 
+
 - Nudge action: speak to your local member of parliament, send them a letter, show them policy proposal
-- Aligned businesses sponsor the handbook. Packs can be ordered to be handed out
+- Aligned businesses sponsor the handbook. Packs of printed copies can be ordered to be handed out
+- Online e-book hosted on a project specific domain
+
+- Resources for inspiration: Bullish case for Bitcoin
 
 
 
@@ -111,19 +124,12 @@ Funding history:
 - v2.0 Website: 21,000 sats
 - v2.1 Update: TBD
 
-Current action: v2.0 website (add donor & hub page with links to repo categories)
+Current version of website: v2.0
 
 Actions:
-mod_add "Since 916,094" on landing page
-mod_add "enter" button to bring to donor page
-mod_create donor page
-mod_add images to donor page with links, add "continue" button and "support with sats" button
-mod_create hub page
-mod_add "Repository" button to hub page (links to this repo)
-mod_add "Meetings" button to hub page (links to meetings file in repo)
-mod_add "Protocols" button to hub page (links to meetings file in repo)
-mod_add "Directory" button to hub page (links to z_operator directory file in repo)
-mod_add "Projects" button to hub page (links to projects file in repo)
+mod_add "Fix the money. Fix Canada" to hub page
+mod_create donor page, activate with first significant donor 
+mod_add images to donor page with links, add "continue" button 
 
 
 
