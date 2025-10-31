@@ -21,13 +21,15 @@ A few housekeeping items to begin with:
 
 1. The audio of this meeting is being recorded
 
-The audio will be transcribed and made public online. For privacy and security reasons, please do not use your real name during meetings
+The audio will be transcribed and made public online in the repository. For privacy and security reasons, please do not use your real name during meetings
 
-Once transcribed, the audio files will be reviewed for accuracy with the recording and upon review completion, audio recordings will be deleted to prevent voice recognition doxxing our Orange ID 
+If you haven't already, please choose a word from the BIP39 wordlist and use that as your indetifier for all meetings and also ideally on NOSTR to maintain consistency
+
+Once transcribed, the transcript will be reviewed for accuracy with the recording and upon review completion, audio recordings will be deleted to prevent voice recognition doxxing our Orange ID 
 
 We created an identification protocol which is available on the website
 
-Before you speak, please identify yourself with your orange ID or call sign
+Before you speak, please identify yourself with your call sign 
 
 This may seem extreme but we feel it’s critical for our individual privacy and safety
 
@@ -36,7 +38,7 @@ The fiat powers know no limits for how far they will go to silence truth or thre
 
 2. Please keep your mic muted until you are ready to speak to reduce background noise
 
-3. Please update your name to your call sign
+3. Please update your name to your call sign so others on the call know who is speaking
 
 4. If you wish to speak, please raise your hand and I will ask you to speak by naming your call sign
 
@@ -44,17 +46,18 @@ The fiat powers know no limits for how far they will go to silence truth or thre
 
 
 Agenda today:
-- Review proposals [30]
-- Discuss strategies to educate 1m Canadians about money [20]
-- Refine a definition for "orange politician" and a slection criteria we can use to determine which members of parliament we support [20]
-- Repo overview [10]
-- Review projects and open gigs [5min]
-- Close meeting [5min]
+- 5 minutes opening the call [1205]
+- 20 minutes reviewing proposals [1225]
+- 20 minutes discussing strategies to educate 1m Canadians about money [1245]
+- 20 minutes unpacking the Orange oath and refining a definition for "orange politician" as our selection criteria for determining which Canadian politicians we support [1305]
+- 10 minute overview of the repository [1315]
+- 15 minutes reviewing projects and open roles [1328]
+- a few minutes to close the meeting [1330]
 
 
 --
 
-1. Discuss proposals [30min]
+1. Discuss proposals [20min]
 
 A reminder that any active operator can submit a proposal through NOSTR
 
@@ -62,6 +65,12 @@ Two steps:
 
 1. Tag our primary npub in a note that includes a proposal identifier and a details of the proposal
 2. DM our primary npub a link to your note so it doesnt get missed
+
+Go to proposals. Read then open floor for input or discussion
+
+Proposals can be submitted by anyone, anytime
+
+If a proposal is energized by a person or by sats, it becomes a project
 
 
 --
