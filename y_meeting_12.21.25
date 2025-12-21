@@ -4,9 +4,10 @@ Moderated by: Spear
 
 Attendees:
 - Spear
-- 
+- Labor
+- Travel
+- Symptom
 
-test
 
 - 
 
@@ -14,9 +15,9 @@ Welcome to the third meeting for the Canadian Orange Party
 
 My call sign is Spear, orange ID CO_919953. I'm honoured to be moderating this session
 
-Current block height is [X] and 1 canadian dollar currently buys you [X] sats
+Current block height is 928,863 and 1 canadian dollar currently buys you 820 sats
 
-Thank you all for attending live and thank you to everyone reading this meeting transcript
+Thank you all for attending live or reading this meeting transcript in future
 
 
 
@@ -25,40 +26,44 @@ A few housekeeping items to begin with:
 
 1. This meeting is being recorded
 
-The audio will be transcribed and made public online in the repository. For privacy and security reasons, please do not use your real name during meetings
+The audio will eventually be transcribed and made public online in the repository. For privacy and security reasons, please do not use your real name during meetings
 
-If you haven't already, please choose a word from the BIP39 wordlist and use that as your indetifier for all meetings and also ideally on NOSTR to maintain consistency
-
-Once transcribed, the transcript will be reviewed for accuracy with the recording and upon review completion, audio recordings will be deleted to prevent voice recognition doxxing our Orange ID 
-
-We created an identification protocol which is available on the website
+We recommend creating a dedicated nostr keypair with your call sign for consistency
 
 Before you speak, please identify yourself with your call sign 
 
-This may seem extreme but we feel it’s critical for our individual privacy and safety
+Remaining pseudonymous may seem extreme but we feel it’s critical for our individual privacy and safety
 
 The fiat powers know no limits for how far they will go to silence truth or threats to its powers. It’s up to us to maintain privacy to protect ourselves long term.
 
 
 2. Please keep your mic muted until you are ready to speak to reduce background noise
 
-3. Please update your name to your call sign so others on the call know who is speaking
 
-4. If you wish to speak, please raise your hand and I will ask you to speak by naming your call sign
+3. If you wish to speak, please raise your hand and I will ask you to speak by naming your call sign
 
-5. This meeting will be max 90 minutes, shorter if we finish early
-
+4. This meeting will be max 90 minutes, shorter if we finish early
 
 
-Fiat currency is a deceitful scheme designed to exploit citizens. It is a normalized fraud that enables systemic theft through an accelerating shadow tax of currency inflation.
 
-Canada was once on a sound money standard and we must return to it in order to restore civility, truth and freedom. 
+I want to begin with two quotes that articulate what we're working to accomplish with project Opus:
 
-We must all be part of the action and we need your help. Share this resource and contact your politician to voice your anger about the fraud of inflation
 
-Ephesians 5:11
+First is from Ephesians 5:11 where Paul writes:
 
 “Take no part in the unfruitful works of darkness, but instead expose them”
+
+
+Second is a quote by Henry Ford who says:
+
+“It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning.” 
+
+
+
+Project Opus is about exposing the fraud of fiat currency and inciting revolution one person at a time by helping them understand truth
+
+When enough Canadians understand the truth, opt out of fraudulent currency and commit to helping restore sound money in Canada, I think we will see meaningful change
+
 
 
 Agenda today:
@@ -70,37 +75,50 @@ Agenda today:
 
 
 
-1. Review changes since last meeting 
+1. Updates since last meeting:
 
 - The website has been updated to include a button for the end inflation campaign. to access the repo, click on the orange maple leaf
 
 
 - Orange podcast has 8 episodes recorded. It's a place for serious people to have thoughtful conversations about serious issues. Podcast has its own domain at canadianorangepodcast.com
 
-The orange podcast is an audio forum for Canadians to have conversations about restoring freedom in Canada by restoring a sound money standard
+Consider this an open invitation for anyone to submit a recorded conversation that we can post or to schedule a conversation with me
 
-Consider this an open invitation for anyone to record a conversation and submit it to the orange party
+Again, the Canadian Orange podcast is a forum to have conversations about how restoring a sound money standard changes Canada
 
-If it makes the cut, you get paid anywhere from 5,000 to 21,000 sats for the submission
+- Lastly, we officially have hats. Operator hat, Ranger hat. Explain Canadian Orange Ranger. why the name was chosen, picture of hat on nostr, if you want one, DM on nostr, i have a half dozen ready
 
-If anyone is interested please email the orange party for selection criteria guidelines
+The ranger hat is for anyone who wants to support the orange party. The credo of the canadian orange ranger is: Steward of truth, mentally & physically strong, advocate of sound money, defender of freedom.
 
-If anyone wants to be interviewed, let me know and I can connect you with a partner to record with
+If you want a ranger hat, you can email or DM on NOSTR. sats only, I can ship anywere in Canada. 
 
-
-- We have hats. Operator hat, Ranger hat. Explain Canadian Orange Ranger. why the name was chosen, picture of hat on nostr, if you want one, DM on nostr, i have a half dozen ready
-
-
+We also have an operator hat. These are for individuals who are highly involved with the orange party and taking on active duties in exposing the fraud of currency inflation
 
 
 
 2. Project Opus
 
-Timeline:
-- AB test print pamphlet and gather feedback until jan 3. genesis day. Genesis of end inflation canada campaign
-- Print pamphlet v1.0
-- e-pamphlet is the new website
-- Launch 21 day meme campaign (goal: 121 memes) on NOSTR and X
+The objective with this project is to tell people the truth and tansmute anger into action
+
+We're finalizing a paper pamphlet which will be printed and handed out in person
+
+We're also finalizing a digital version which will be hosted on the website
+
+
+The core flow of each option is essentially:
+
+Page 1: You’re being stolen from, inflation is theft
+Page 2: lies vs truth
+Page 3: Comparison of fiat and sound money
+Page 4: How to protect yourself (dedicated pages for studying money and saving in bitcoin. Practical primers - current live on pamphlet B)
+Page 5: contact your politician with a letter template provided
+
+Collect feedback until Jan 3 and print our first version of the pamphlet
+
+Grassroots truth movement to expose the fraud of fiat currency
+
+meme bounties
+
 
 - Website
 - AB test physical pamphlet
@@ -112,8 +130,15 @@ Timeline:
 - First sponsor
 
 
-3. Project Aurantium is the creation of a financial literacy non profit
+TRAVEL:
+- Pamphlet B: messaging was better. Inflation is theft more appealing than youre being stolen from. comparison 
+- lies: inflatio  is causd by greedy corporations
+- Avatar: person feeling the pinch of inflation, doesn't understand it
+- 
 
-- review strategy
-- Discuss timeline
+Symptom: Pamphlet B, white instead of yellow on page 2, limit colours to the three 
+
+Labor: Inflation can mean a lot of different things, What is inflation? Money printing is directly causing inflation. focus the beam. Have a quote on the first page. Henry ford quote
+- Chart dmeonstrating destruction of purchasing power
+
 
