@@ -1,3 +1,11 @@
+WORK IN PROGRESS
+
+Maintainer: Spear
+
+Start block: 933384
+
+--
+
 A growing database of high quality, curated resources
 
 Eventually, create a Canadian Orange Library website that offers an intuitive and simple navigation digital library
@@ -6,9 +14,30 @@ Eventually, create a Canadian Orange Library website that offers an intuitive an
 
 Resource gets added to library from mempool once X number of contributors vote on it
 
+
+--
+
+
+LIBRARY
+
+
+
+
 Labelling:
 - Topic (money, Bitcoin, economics, philosophy, psychology, energy, politics)
 - Medium (audio, written, video)
 - Complexity level (beginner, intermediate, advanced)
+- Duration
 
-WORK IN PROGRESS
+
+FORMAT: 
+block height added_link             [proposed by_block height_topic_medium_complexity_duration]
+
+
+
+MEMPOOL
+
+933386_https://www.unchained.com/blog/bitcoin-is-common-sense                        [Spear_Money_written_intermediate_24 min]
+
+933384_https://jimmysong.medium.com/why-bitcoin-is-different-e17b813fd947            [Spear_Bitcoin_written_beginner_9 min]
+
