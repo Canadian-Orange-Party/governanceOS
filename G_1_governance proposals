@@ -20,14 +20,26 @@ Index:
 
 - L = Law
 - M = Money
+- J = Justice
 - ND = National defence
 - BI = Borders + immigration
 - CD = Community defence
 - G = Guardian network
 - T = Taxes (new term: treasury or contribution)
 - V = Values/Vows
-- J = Justice
+
 - NP = National Programs
+
+
+V_1: Every Canadian citizen shall take the citizen pledge to formally swear that they will uphold Canadian values and laws
+
+V_1.1: Citizens pledge:
+
+I vow to coexist peacefully, in obedience to Gods law and the Canadian Charter of Rights and Freedoms as the supreme law of our nation
+
+I vow to accept the responsibility of understanding Canadian laws so I may contribute to fair and just enforcement by Guardians
+
+I vow to support Canadian residents in their quest to become contributing citizens.
 
 
 
@@ -39,9 +51,25 @@ M_2: Abolish the ability of government to control currency into perpetuity unles
 
 M_3: Establish a national network of compute hubs protected and controlled by Canadian Guardians that protect access to Bitcoin for Canadian Citizens (mining pool) and generate revenue for the national treasury
 
+M_4: Creation of a citizen dividend program with quarterly payments made to all citizens from the national treasury
+
+
+
+
+
 ND_1: Establish the Canadian National Guard
 
+ND_2: Estalblish Elite Guardian team 0 (GT0) to join the national justice task force in the administration of public political investigations
 
+ND_2.1: GTO trains a national network of Guardian teams used for special operations to defend citizens within Canadian borders
+
+ND_3: Establish a drone program for border defence
+
+ND_4: Establish a network of national military bases, train a strong military that works in partnership with the USA military 
+
+ND_5: Establish a National Cyber Defence force. Create a national cyber defence shield
+
+ND_6: Public education initiative about bitcoin self custody and weapons training
 
 
 
@@ -77,9 +105,7 @@ T_?: Establish a Treasury taskforce of Guardians to protect national assets
 
 G_1: A network of Guardians shall be formed to enforce the Canadian Charter of Rights and Freedoms
 
-V_1: WE THE PEOPLE vow to coexist peacefully, in obedience to Gods law and the Canadian Charter of Rights and Freedoms as the supreme law of our nation
 
-V_2: WE THE PEOPLE accept the personal responsibility of understanding our laws so we may contribute to fair and just enforcement by Guardians
 
 J_1: WE THE PEOPLE demand accountability for crimes comitted by policians. Public investigations (open source transcripts) of every politician that has served over the past 15 years. Includes fraud, currency laundering and treason
 
@@ -99,19 +125,10 @@ J_6: Establish a national justice task force (JTF) with an initial mandate to in
 
 
 
-ND_2: Estalblish Elite Guardian team 0 (GT0)to join the national justice task force in the administration of public political investigations
 
-ND_2.1: GTO trains a national network of Guardian teams used for special operations to defend citizens within Canadian borders
 
-ND_3: Establish a drone program for border defence
 
-ND_4: Establish a network of national military bases, train a strong military that works in partnership with the USA military 
 
-ND_5: Establish a National Cyber Defence force. Create a national cyber defence shield
-
-ND_6: Public education initiative about bitcoin self custody and weapons training
-
-V_3: WE THE PEOPLE vow to support felllow humans become a contributing citizens.
 
 BI_1: Immigration vetting done at the community level, reviewed and enforced at national level through border Guardians
 
